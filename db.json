@@ -3,7 +3,8 @@
     {
       "id": 1,
       "username": "json-server",
-      "password": "typicode"
+      "password": "typicode",
+      "token": "klmno1234"
     }
   ]
 }
