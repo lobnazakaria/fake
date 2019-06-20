@@ -2,8 +2,8 @@
   "login": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "username": "json-server",
+      "password": "typicode"
     }
   ]
 }
